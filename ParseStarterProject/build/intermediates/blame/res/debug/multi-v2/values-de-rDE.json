@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de-rDE/values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/src/main/res/values-de-rDE/strings.xml",
+                    "from": {
+                        "startLines": "2,8,3,4,5,6,10,7,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,383,122,169,224,278,493,331,435",
+                        "endColumns": "66,51,46,54,53,52,46,51,57",
+                        "endOffsets": "117,430,164,219,273,326,535,378,488"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,174,221,276,330,383,430,482",
+                        "endColumns": "66,51,46,54,53,52,46,51,57",
+                        "endOffsets": "117,169,216,271,325,378,425,477,535"
+                    }
+                }
+            ]
+        }
+    ]
+}

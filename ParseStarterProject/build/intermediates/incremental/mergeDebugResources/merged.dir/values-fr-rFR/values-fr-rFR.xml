@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Chatabroad_Login">ChatAbroad  le login</string>
+    <string name="User_List">" liste d'utilisateur"</string>
+    <string name="login">le login</string>
+    <string name="or_login">ou, login</string>
+    <string name="or_signup">" ou, inscrivez-vous"</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="send_button">Envoyer</string>
+    <string name="sign_up">s\'inscrire</string>
+    <string name="username">"Nom Votre nom d'utilisateur  "</string>
+</resources>

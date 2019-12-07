@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/hamzahgopaul/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/f837423ff337cc4bde105f44bfd2e123/res/values-v19/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "230",
+                        "endColumns": "76",
+                        "endOffsets": "302"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

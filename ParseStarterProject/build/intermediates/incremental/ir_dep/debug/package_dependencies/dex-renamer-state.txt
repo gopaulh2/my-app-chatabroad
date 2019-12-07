@@ -1,0 +1,13 @@
+#Sat Dec 07 01:26:33 GMT 2019
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+base.2=/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+base.1=/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+base.0=/Users/hamzahgopaul/Documents/Whatsapp-2/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10

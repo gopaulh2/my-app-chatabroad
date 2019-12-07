@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id" translatable="false">YOUR_APPLICATION_ID</string>
+    <string name="username">Your Username</string>
+    <string name="password">Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="or_login">or, login</string>
+    <string name="or_signup">or, sign up</string>
+    <string name="Chatabroad_Login">ChatAbroad Login</string>
+    <string name="User_List">User List</string>
+    <string name="parse_client_key" translatable="false">YOUR_CLIENT_KEY</string>
+    <string name="no_connection" translatable="false">No internet connection! Cannot be translated!</string>
+
+
+    <string name="app_name" translatable="false">ChatAbroad</string>
+
+    <string name="hello_world" translatable="false">Hello World!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_rider" translatable="false">Map</string>
+    <string name="title_activity_driver_location" translatable="false">Map</string>
+    <string name="send_button">Send</string>
+</resources>
